@@ -1,7 +1,7 @@
 ---
-title: "Test post"
+title: "A'nyo Blog"
 date: 2025-02-22
-description: "A guide on adding cover images and audio articles"
+description: "Random Thoughts"
 draft: false
 author: "Author Name"
 type: "post"
