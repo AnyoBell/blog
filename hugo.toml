@@ -1,7 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-theme = "chicago7"
+theme = "hugo-brewm"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
