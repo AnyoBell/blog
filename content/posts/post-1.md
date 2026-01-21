@@ -1,10 +1,11 @@
 ---
-title: "My First Post"
+title: "Change"
 date: 2026-01-20
 draft: false
+tags: ["science", "music", "blogging"]
 author: "A'nyo-Bell"
 ---
 
-# My First Post
+# Change
 
-Start writing your content here...
+Change is the only constant
