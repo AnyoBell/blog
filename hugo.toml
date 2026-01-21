@@ -12,22 +12,30 @@ theme = 'chicago7'
   [caches.images]
     dir = ':cacheDir/images'
 
-[[menu.main]]
+[params]
+  customCSS = ["css/custom.css"]
+
+[[menu.header]]
   name = "Home"
   url = "/"
   weight = 1
 
-[[menu.main]]
+[[menu.header]]
   name = "All Posts"
   url = "/posts/"
   weight = 2
 
-[[menu.main]]
-  name = "About"
-  url = "/about/"
+[[menu.header]]
+  name = "Projects"
+  url = "/projects/"
   weight = 3
 
-[[menu.main]]
+[[menu.header]]
+  name = "About"
+  url = "/about/"
+  weight = 4
+
+[[menu.header]]
   name = "Tags"
   url = "/tags/"
-  weight = 4
+  weight = 5
